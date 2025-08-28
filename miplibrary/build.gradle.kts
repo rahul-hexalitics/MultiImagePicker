@@ -63,7 +63,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.rahul-hexalitics"
                 artifactId = "image-picker"
-                version = "1.0.0"
+                version = "1.0.1"
             }
         }
     }
